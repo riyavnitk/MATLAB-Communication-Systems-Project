@@ -27,12 +27,12 @@ Single-channel system can be more susceptible to interference, noise, and other 
 
 ### Three Channel
 A three-channel system in wireless communication refers to a system that uses three separate channels for transmission and reception.
-#### Expected Results
+- **Expected Results:**
 By using three independent channels with different frequency characteristics, the system can further reduce the impact of frequency-selective fading and other frequency-dependent impairments. This can improve system performance and reliability, particularly in severe channel conditions. A three-channel system is that it allows more efficient use of the available frequency spectrum. 
 
 ### Time-Varying Channel
 A time-varying channel in wireless communication is a channel whose characteristics change over time due to various factors, such as the movement of the transmitter or receiver, changes in the environment, and interference from other sources.
-#### Expected Results
+- **Expected Results:**
 Time-varying channels can cause significant impairments to wireless communication systems, such as signal attenuation, dispersion, and fading.
 
 We look at the graphical outputs of the Bit Error Rates and Probability of Errors to complete out overall analysis on the three channels taken into consideration.
