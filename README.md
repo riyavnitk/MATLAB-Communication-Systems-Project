@@ -22,7 +22,7 @@ We have taken the following channels into consideration:
 
 ### Single Channel 
 A single-channel wireless communication system refers to a system that uses a single channel for both the transmission and reception of data. This means that the same frequency band is used to send and receive data.
-##### Expected Results
+- **Expected Results:**
 Single-channel system can be more susceptible to interference, noise, and other impairments, which can degrade the system’s performance and reliability.
 
 ### Three Channel
