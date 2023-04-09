@@ -24,16 +24,33 @@ We have taken the following channels into consideration:
 A single-channel wireless communication system refers to a system that uses a single channel for both the transmission and reception of data. This means that the same frequency band is used to send and receive data.
 - **Expected Results:**
 Single-channel system can be more susceptible to interference, noise, and other impairments, which can degrade the system’s performance and reliability.
+
+**The Graphical Output of the Bit Error Rate vs the SNR of the Single-Channel Wireless Communication System**
 ![The Graphical Output of the Bit Error Rate vs the SNR of the Single-Channel System](SingleChannel-BER.jpg)
+
+**The Graphical Output of the Outage Probability vs the SNR of the Single-Channel System**
+![The Graphical Output of the Outage Probability vs the SNR of the Single-Channel System](./SingleChannel-OutageProbability.jpg)
 
 ### Three Channel
 A three-channel system in wireless communication refers to a system that uses three separate channels for transmission and reception.
 - **Expected Results:**
 By using three independent channels with different frequency characteristics, the system can further reduce the impact of frequency-selective fading and other frequency-dependent impairments. This can improve system performance and reliability, particularly in severe channel conditions. A three-channel system is that it allows more efficient use of the available frequency spectrum. 
 
+**The Graphical Output of the Bit Error Rate vs the SNR of the Three-Channel System**
+![The Graphical Output of the Bit Error Rate vs the SNR of the Three-Channel System](./ThreeChannel-BER.jpg)
+
+**The Graphical Output of the Outage Probability vs the SNR of the Three-Channel System**
+![The Graphical Output of the Outage Probability vs the SNR of the Three-Channel System](./ThreeChannel-OutageProbability.jpg)
+
 ### Time-Varying Channel
 A time-varying channel in wireless communication is a channel whose characteristics change over time due to various factors, such as the movement of the transmitter or receiver, changes in the environment, and interference from other sources.
 - **Expected Results:**
 Time-varying channels can cause significant impairments to wireless communication systems, such as signal attenuation, dispersion, and fading.
+
+**The Graphical Output of the Bit Error Rate vs the SNR of the Time Diversity-Channel System**
+![The Graphical Output of the Bit Error Rate vs the SNR of the Time Diversity-Channel System](./TimeDiversity-BER.jpg)
+
+**The Graphical Output of the Outage Probability vs the SNR of the Time Diversity-Channel System**
+![The Graphical Output of the Outage Probability vs the SNR of the Time Diversity-Channel System](./TimeDiversity-OutageProbability.jpg)
 
 We look at the graphical outputs of the Bit Error Rates and Probability of Errors to complete out overall analysis on the three channels taken into consideration.
