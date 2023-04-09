@@ -24,6 +24,7 @@ We have taken the following channels into consideration:
 A single-channel wireless communication system refers to a system that uses a single channel for both the transmission and reception of data. This means that the same frequency band is used to send and receive data.
 - **Expected Results:**
 Single-channel system can be more susceptible to interference, noise, and other impairments, which can degrade the system’s performance and reliability.
+![The Graphical Output of the Bit Error Rate vs the SNR of the Single-Channel System](SingleChannel-BER.jpg)
 
 ### Three Channel
 A three-channel system in wireless communication refers to a system that uses three separate channels for transmission and reception.
