@@ -1,4 +1,4 @@
-close all;
+clc; clear all; close all; close all;
 clear;
 
 fc = 800*10^6;    %carrier frequency
